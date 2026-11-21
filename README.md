@@ -34,6 +34,6 @@ print(res.choices[0].message.content)
 | SQLite Usage & Estimated Cost-Savings Dashboard | - | Yes |
 | Unit Test Suite + 1-Click Windows Launcher | - | Yes |
 
-**[Get the Full Pro Kit ($29 Launch) -> REPLACE_WITH_POLAR_OR_PAYHIP_URL]**
+**[Get the Full Pro Kit ($29 Launch) -> https://payhip.com/b/n3M2a]**
 
 Need an **Agency / Commercial License ($69)** for unlimited client deployments? Available on the same page.
