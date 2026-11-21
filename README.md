@@ -1,3 +1,4 @@
+<img width="900" height="506" alt="VideoProject-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c6bfbaca-0f2d-432c-aa65-f007a668ec25" />
 # Zero-Downtime AI Gateway (Lite)
 
 Drop-in OpenAI-compatible local proxy that catches `HTTP 429` rate limits and silently fails over from your primary cloud API to a backup cloud or local LLM (Ollama, LM Studio, llama.cpp).
